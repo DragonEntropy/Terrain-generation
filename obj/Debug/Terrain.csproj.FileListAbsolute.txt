@@ -1,0 +1,11 @@
+C:\Users\alexj\source\repos\Terrain\bin\Debug\Terrain.exe.config
+C:\Users\alexj\source\repos\Terrain\bin\Debug\Terrain.exe
+C:\Users\alexj\source\repos\Terrain\bin\Debug\Terrain.pdb
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.csproj.AssemblyReference.cache
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.Form1.resources
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.Properties.Resources.resources
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.csproj.GenerateResource.cache
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.csproj.CoreCompileInputs.cache
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.exe
+C:\Users\alexj\source\repos\Terrain\obj\Debug\Terrain.pdb
